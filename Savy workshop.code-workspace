@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Bootstrap\\js"
+		},
+		{
+			"path": "..\\Bootstrap\\Font-Awesome-master"
+		}
+	],
+	"settings": {}
+}
